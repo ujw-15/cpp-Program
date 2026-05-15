@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../Class1th (stream)/Class1th (stream).vcxproj" Id="f4a524cf-3460-4dde-9928-ab2b7804a658" />
+  <Project Path="../Class2th (Class)/Class2th (Class).vcxproj" Id="084d0d6d-b860-46b4-916f-d40006ab987a" />
   <Project Path="Program.vcxproj" Id="3c9e5a5b-fc57-430a-9eab-78121022db41" />
 </Solution>
