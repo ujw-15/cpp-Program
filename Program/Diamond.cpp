@@ -14,3 +14,10 @@ Diamond::Diamond()
 	cout << "Hardness : " << Hardness << endl;
 	cout << endl;
  }
+
+ void Diamond::Promote()
+ {
+	 cout << "Elise" << endl;
+	 cout << "Diamond Boader" << endl;
+	 cout << "Eternals Capsule" << endl;
+ }

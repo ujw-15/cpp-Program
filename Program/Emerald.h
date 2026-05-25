@@ -9,5 +9,6 @@ public:
 	Emerald();
 
 	void Describe();
+	virtual void Promote() override;
 };
 

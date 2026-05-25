@@ -14,5 +14,12 @@ void Emerald::Describe()
 	cout << "Transparency : " << Transparency << endl;
 }
 
+void Emerald::Promote()
+{
+	cout << "Ryze" << endl;
+	cout << "Emerald Boader" << endl;
+	cout << "Eternals Capsule" << endl;
+}
+
 
 
