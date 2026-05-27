@@ -1,10 +1,11 @@
 #pragma once
 class Item
 {
-private:
+protected:
 	const char* name;
 
 public :
-	Item();
+	//Item();
+	virtual void Use() = 0;
 };
 

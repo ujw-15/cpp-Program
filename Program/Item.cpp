@@ -3,8 +3,8 @@
 
 
 
-Item::Item()
-{
-	name = "Item";
-	cout << name << endl;
-}
+//Item::Item()
+//{
+//	name = "Item";
+//	cout << name << endl;
+//}
