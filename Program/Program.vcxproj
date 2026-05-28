@@ -131,16 +131,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Bandage.cpp" />
-    <ClCompile Include="Item.cpp" />
-    <ClCompile Include="Matches.cpp" />
+    <ClCompile Include="Position.cpp" />
     <ClCompile Include="Program.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bandage.h" />
-    <ClInclude Include="Item.h" />
-    <ClInclude Include="Matches.h" />
-    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Position.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
