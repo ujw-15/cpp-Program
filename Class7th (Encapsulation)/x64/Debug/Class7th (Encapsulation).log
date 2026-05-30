@@ -1,0 +1,8 @@
+﻿  Position.cpp
+C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Class7th (Encapsulation)\Position.cpp(22,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Class7th (Encapsulation)\Position.cpp(14,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Class7th (Encapsulation)\Position.cpp(29,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Class7th (Encapsulation)\Position.cpp(36,1): warning C4172: 지역 변수 또는 임시 : position의 주소를 반환하는 중
+C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Class7th (Encapsulation)\Position.cpp(62,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Class7th (Encapsulation)\Position.cpp(74,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+  Class7th (Encapsulation).vcxproj -> C:\Users\ujw12\OneDrive\Desktop\cpp-Program\Program\x64\Debug\Class7th (Encapsulation).exe

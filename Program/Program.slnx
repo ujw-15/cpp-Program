@@ -9,5 +9,6 @@
   <Project Path="../Class4th (Inheritance)/Class4th (Inheritance).vcxproj" Id="c39c4898-5978-4d7c-8e34-01141aa7938f" />
   <Project Path="../Class5th (Polymorphism)/Class5th (Polymorphism).vcxproj" Id="86999f52-4a4b-4b69-bff9-923572e1993b" />
   <Project Path="../Class6th (Abstract)/Class6th (Abstract).vcxproj" Id="627636dc-17de-482a-b118-b641e3a5ba90" />
+  <Project Path="../Class7th (Encapsulation)/Class7th (Encapsulation).vcxproj" Id="781a0fb3-7619-4b97-ac36-e3c7b190fca5" />
   <Project Path="Program.vcxproj" Id="3c9e5a5b-fc57-430a-9eab-78121022db41" />
 </Solution>
