@@ -1,0 +1,6 @@
+.vs/
+*.ipch
+ipch/
+Program/.vs/
+*.ipch
+*.pch
