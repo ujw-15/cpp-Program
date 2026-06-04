@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Class10th (Linear Container)/Class10th (Linear Container).vcxproj" Id="10676499-d24a-428e-a6fa-10feb3f171ef" />
   <Project Path="../Class1th (stream)/Class1th (stream).vcxproj" Id="f4a524cf-3460-4dde-9928-ab2b7804a658" />
   <Project Path="../Class2th (Class)/Class2th (Class).vcxproj" Id="084d0d6d-b860-46b4-916f-d40006ab987a" />
   <Project Path="../Class3th (Constructor &amp; Destructor)/Class3th (Constructor &amp; Destructor).vcxproj" Id="1b016f24-ebd2-40e9-b1bb-6e4437f1c77a" />
