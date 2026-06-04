@@ -11,5 +11,6 @@
   <Project Path="../Class6th (Abstract)/Class6th (Abstract).vcxproj" Id="627636dc-17de-482a-b118-b641e3a5ba90" />
   <Project Path="../Class7th (Encapsulation)/Class7th (Encapsulation).vcxproj" Id="781a0fb3-7619-4b97-ac36-e3c7b190fca5" />
   <Project Path="../Class8th (Template)/Class8th (Template).vcxproj" Id="b316966f-f6d7-41c3-a92a-8ba21ff6f03b" />
+  <Project Path="../Class9th (Smart Pointer)/Class9th (Smart Pointer).vcxproj" Id="8f24e45c-4e62-482f-9553-97cc536adaec" />
   <Project Path="Program.vcxproj" Id="3c9e5a5b-fc57-430a-9eab-78121022db41" />
 </Solution>
